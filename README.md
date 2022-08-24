@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+lqgl;I'm+a+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=100&lines=Hi%2C+I'm+lqgl;I'm+a+backend+developer)](https://git.io/typing-svg)
 
 ![lqgl snake gif](https://github.com/lqgl/lqgl/blob/snake/github-contribution-grid-snake.svg)
 
