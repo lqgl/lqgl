@@ -3,28 +3,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi there, I’m [Kami](https://lqgl.cool/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+lqgl;I'm+a+backend+developer)](https://git.io/typing-svg)
+- 🔭 I’m currently working in game development.
+- 🌱 I’m currently learning Go, Python, Rust.
+- 💬 Ask me about Anything you want~
+- 😄 Pronouns: Kami
 
 ![lqgl snake gif](https://github.com/lqgl/lqgl/blob/snake/github-contribution-grid-snake.svg)
 
 <!-- ## Github Contributions 📈 -->
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=lqgl&theme=react-dark&hide_border=true">
-<p>
-
-| ![lqgl's github stats](https://github-readme-stats.vercel.app/api?username=lqgl&show_icons=true&theme=react)             | ![lqgl GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lqgl&theme=react)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqgl&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lqgl&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqgl&langs_count=8&theme=react&layout=compact) | ![lqgl's github stats](https://github-readme-stats.vercel.app/api?username=lqgl&show_icons=true&theme=react)                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <div align="left">
 
