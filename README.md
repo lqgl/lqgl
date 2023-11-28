@@ -4,14 +4,23 @@
 Here are some ideas to get you started:
 
 -->
-### Hi there, I’m [Kami](https://lqgl.cool/)
+### Hi there, I’m [Kami](https://lqgl.asia/)
 
 - 🔭 I’m currently working in game development.
 - 🌱 I’m currently learning Go, Python, Rust.
 - 💬 Ask me about Anything you want~
 - 😄 Pronouns: Kami
 
-![lqgl snake gif](https://github.com/lqgl/lqgl/blob/snake/github-contribution-grid-snake.svg)
+<!-- Snake Game -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lqgl/lqgl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lqgl/lqgl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lqgl/lqgl/output/github-contribution-grid-snake.svg">
+  </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
 
 <!-- ## Github Contributions 📈 -->
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqgl&langs_count=8&theme=react&layout=compact) | ![lqgl's github stats](https://github-readme-stats.vercel.app/api?username=lqgl&show_icons=true&theme=react)                                                                                               |
